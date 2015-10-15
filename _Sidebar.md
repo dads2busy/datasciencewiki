@@ -1,13 +1,13 @@
 ###R
-**RStudio**  
+**RStudio**<br />
 * [[Connect to RStudio]]
 
-**Database Connection**  
+**Database Connection**<br />
 * [[Connect to PostgreSQL]]
   * [[RPostgreSQL Commands]]
   * [[SQL Examples]]
 
-**Sample R Code**  
+**Sample R Code**<br />
 * [[Load CSV]]
 * [[Geocoding]]
 * [[Data Munging]]
