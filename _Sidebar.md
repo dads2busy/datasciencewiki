@@ -1,13 +1,12 @@
 ==== R ====
-
-**//RStudio//**
-\\ * [[DATA:RStudioConnect|Connect to RStudio]]
-\\ **//Database Connection//**
-\\  * [[DATA:RStudioDB|Connect to PostgreSQL]]
-\\  * [[DATA:RPostgreSQL|RPostgreSQL Commands]]
-\\  * [[DATA:SQLExamples|SQL Examples]]
-\\ **//Sample R Code//**
-\\  * [[DATA:RStudioCSV|Load CSV]]
+**RStudio**
+[DATA:RStudioConnect|Connect to RStudio]
+ **//Database Connection//**
+   [DATA:RStudioDB|Connect to PostgreSQL]
+   [DATA:RPostgreSQL|RPostgreSQL Commands]
+   [DATA:SQLExamples|SQL Examples]
+ **//Sample R Code//**
+   [[DATA:RStudioCSV|Load CSV]]
 \\  * [[R:Geocoding|Geocoding]]
 \\  * [[R:DataMunging|Data Munging]]
 \\  * [[R:HPC|HPC with Vectorize and Parallelized Code]]
