@@ -1,10 +1,10 @@
 ### R
 **RStudio**
-[[DATA:RStudioConnect|Connect to RStudio]]
+[[Connect to RStudio]]
  **//Database Connection//**
-[[DATA:RStudioDB|Connect to PostgreSQL]]
-[[DATA:RPostgreSQL|RPostgreSQL Commands]]
-[[DATA:SQLExamples|SQL Examples]]
+[[Connect to PostgreSQL]]
+[[RPostgreSQL Commands]]
+[[SQL Examples]]
 **Sample R Code**
 [[DATA:RStudioCSV|Load CSV]]
 [[R:Geocoding|Geocoding]]
