@@ -1,7 +1,7 @@
-#wiki-sidebar {
+/*#wiki-sidebar {
     float: left !important;
     font-size: 80%;
-}
+}*/
 
 .markdown-body ul, .markdown-body ol {
     margin-top: 0;
