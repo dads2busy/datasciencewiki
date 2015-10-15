@@ -1,16 +1,16 @@
 ###R
-**RStudio**<br />
-* [[Connect to RStudio]]
+* **RStudio**
+ * [[Connect to RStudio]]
 
-**Database Connection**<br />
-* [[Connect to PostgreSQL]]
+* **Database Connection**
+ * [[Connect to PostgreSQL]]
   * [[RPostgreSQL Commands]]
   * [[SQL Examples]]
 
-**Sample R Code**<br />
-* [[Load CSV]]
-* [[Geocoding]]
-* [[Data Munging]]
+* **Sample R Code**
+ * [[Load CSV]]
+ * [[Geocoding]]
+ * [[Data Munging]]
  - [[HPC with Vectorize and Parallelized Code]]
  - [[Parallel Processing with foreach]]
  - [[Split Up Processing with idiv]]
