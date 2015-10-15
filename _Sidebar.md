@@ -3,8 +3,8 @@
 * [[Connect to RStudio]]
 **Database Connection**  
 * [[Connect to PostgreSQL]]
- * [[RPostgreSQL Commands]]
-  * [[SQL Examples]]
+  * [[RPostgreSQL Commands]]
+  * [[SQL Examples]]  
 **Sample R Code**  
 * [[Load CSV]]
 * [[Geocoding]]
