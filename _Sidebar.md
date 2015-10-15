@@ -1,7 +1,7 @@
 ###R
-RStudio
+####RStudio
 * [[Connect to RStudio]]
-Database Connection
+####Database Connection
 * [[Connect to PostgreSQL]]
 * [[RPostgreSQL Commands]]
 * [[SQL Examples]]
