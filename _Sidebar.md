@@ -1,23 +1,23 @@
-### R
-**RStudio**
+###R
+####RStudio
 [[Connect to RStudio]]
- **//Database Connection//**
+#####Database Connection
 [[Connect to PostgreSQL]]
 [[RPostgreSQL Commands]]
 [[SQL Examples]]
-**Sample R Code**
-[[DATA:RStudioCSV|Load CSV]]
-[[R:Geocoding|Geocoding]]
-[[R:DataMunging|Data Munging]]
-[[R:HPC|HPC with Vectorize and Parallelized Code]]
-[[R:Parallel_ForEach|Parallel Processing with foreach]]
-[[R:IDiv|Split Up Processing with idiv]]
-[[R:SplitAndParallel|Split and Parallel]]
-[[R:Treatment_Dosage Spells|Treatment/Dosage Spells]]
-[[R:Grade_Retention|Grade Retention]]
-[[R:Timing and Benchmarking Code]]
-[[R:GIS]]
-### SAS
+#####Sample R Code
+[[Load CSV]]
+[[Geocoding]]
+[[Data Munging]]
+[[HPC with Vectorize and Parallelized Code]]
+[[Parallel Processing with foreach]]
+[[Split Up Processing with idiv]]
+[[Split and Parallel]]
+[[Treatment/Dosage Spells]]
+[[Grade Retention]]
+[[Timing and Benchmarking Code]]
+[[GIS]]
+####SAS
 [[DATA:SASConnectStudio|Connect to SAS Studio]]
 \\ [[DATA:SASConnectX|Connect to SAS X-Windows]]
 \\ [[DATA:SASDB|Connect to Database]]
