@@ -1,9 +1,0 @@
-/*#wiki-sidebar {
-    float: left !important;
-    font-size: 80%;
-}*/
-
-.markdown-body ul, .markdown-body ol {
-    margin-top: 0;
-    margin-bottom: 0;
-}
